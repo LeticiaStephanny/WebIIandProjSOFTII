@@ -7,7 +7,7 @@ Este repositório é destinado a armazenar as práticas realizadas na sala de au
 Javascript
 
 ## Para obter este repositório basta:
-
+TESTEE
 - Clonar o repositório:
 
     - copie o seguinte link: https://github.com/FernandaNascimento26/WebIIandProjSOFTII
